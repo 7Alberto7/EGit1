@@ -24,4 +24,9 @@ public class C1 {
 	public void setAtr2(int atr2) {
 		this.atr2 = atr2;
 	}
+
+	@Override
+	public String toString() {
+		return "C1 [atr1=" + atr1 + ", atr2=" + atr2 + "]";
+	}
 }
