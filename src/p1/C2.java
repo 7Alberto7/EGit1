@@ -14,4 +14,9 @@ public class C2 {
 	public void setAtr1(String atr1) {
 		this.atr1 = atr1;
 	}
+
+	@Override
+	public String toString() {
+		return "C2 [atr1=" + atr1 + "]";
+	}
 }
