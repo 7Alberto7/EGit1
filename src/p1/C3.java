@@ -27,6 +27,6 @@ public class C3 {
 
 	@Override
 	public String toString() {
-		return "C3 [atr1=" + atr1 + ", atr2=" + atr2 + "]";
+		return "C3 --> [atr1=" + atr1 + ", atr2=" + atr2 + "]";
 	}
 }
